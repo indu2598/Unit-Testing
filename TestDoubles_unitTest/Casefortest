@@ -1,0 +1,3 @@
+- call for readFromFile
+- readFromFile should return the correct string(open a file and retuirn test)
+- readFromFile throws exception when specified file does not exists.

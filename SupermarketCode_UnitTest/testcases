@@ -1,0 +1,10 @@
+My Testcase for implementing Supermarket Bucket
+
++ Can create an instance of Checkout Calss
++ Can add an item price
++ Can add an item
++ Can calculate the current Total
++ Can add Multiple item and get Correct total
++ Can add Discount rules
++ Can apply discount rules to the total
+- Exception Through for item added without a price
